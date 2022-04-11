@@ -29,4 +29,4 @@ Com os dados e as soluções já elaboradas propor as seguintes soluções ao ne
 
 
 # Ideias & Melhorias
-- Adicionar métricas de minimo, máximo, mediana e moda do ranqueamento de pedidos na base de clientes e utilizar os dados para identificar os clientes que deixaram de comprar com a Olist. Criar um modelo de classificação para identificá-los.
+- Adicionar métricas de minimo, máximo, mediana e moda do ranqueamento de pedidos na base de clientes e utilizar os dados para identificar os clientes que deixaram de comprar com a Olist há mais de X meses. Criar um modelo de classificação para identificá-los
