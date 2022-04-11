@@ -12,9 +12,10 @@ Deadline do projeto: 25/04/2022
 
 2) Clusterização - Agrupar clientes que mais contribuem nas receitas do negócio
 
-3) Engenharia de Features - Ranqueamento de pedidos: Ranquear de acordo as seguintes variáveis
+3) Engenharia de Features - Ranqueamento de produtos: Ranquear os produtos percorrendo a avaliação de cada pedido e extraindo informações como:
+
       - Distancia Cliente-Fornecedor
-      - Avaliação da Loja por Produto
+      - Avaliação da Loja no pedido
  
 # Negócios
 
