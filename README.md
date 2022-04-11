@@ -24,3 +24,4 @@ Com os dados e as soluções já elaboradas propor as seguintes soluções ao ne
   ou priorizando fornecedores com melhores avaliações;
   - Notificar lojas de possíveis aumentos na demanda por determinado produto baseado no modelo de previsão (regressão) desenvolvido.
   - Elaborar dashboards para identificação de produtos mais comprados com maiores valores de compra efetuados pelos clientes mais valiosos ao negócio (Clusterização) e que possui menor ranqueamento de pedido. Dessa forma a Olist pode buscar fornecedores alternativos que melhoram a experiência do cliente.
+  - Expandir o dashboards sem aplicar o viés de clientes mais valiosos (Clusterização).
