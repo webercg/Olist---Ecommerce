@@ -12,7 +12,7 @@ Deadline do projeto: 25/04/2022
 
 2) Clusterização - Agrupar clientes que mais contribuem nas receitas do negócio
 
-3) Engenharia de Features  Aplicar feature engineering para mapear a experiencia do usuário realizando o ranqueamento de pedidos de acordo com os seguintes critérios:
+3) Engenharia de Features - Aplicar feature engineering para mapear a experiencia do usuário realizando o ranqueamento de pedidos de acordo com os seguintes critérios:
 
       - Distancia Cliente-Fornecedor
       - Avaliação da Loja no pedido
