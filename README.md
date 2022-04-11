@@ -1,6 +1,6 @@
 # Olist---Ecommerce
 
-(Em cnstrução .... )
+(Em construção .... )
 
 Deadline do projeto: 25/04/2022
 
