@@ -1,4 +1,4 @@
-# Olist---Ecommerce
+# Olist: Previsão de vendas e Clusterização de clientes - Criação de métricas e procedimentos para avaliar e melhorar a experiência do cliente.
 
 (Em construção .... )
 
