@@ -1,32 +1,32 @@
 # Olist: Previsão de vendas e Clusterização de clientes - Criação de métricas e procedimentos para avaliar e melhorar a experiência do cliente.
 
-(Em construção .... )
+Há um risco grande ruptura de clientes que são considerados valiosos para o negócio quando há uma recorrência de experiências negativas comprando na plataforma Olist. Nesse projeto há uma proposta de clusterização de clientes que agregam maior valor para o negócio.
 
-Deadline do projeto: 05/05/2022
+Além disso, a fim de diminuir a probabilidade de ruptura de compras efetuadas pelos clientes de maior valor na plataforma realizou-se uma análise de dados com objetivo de listar os fornecedores e produtos que causam maiores experiencias negativas para os clientes de maior valor para o negócio.
+
+Entende-se como uma experiência negativa a compra de um produto que não corresponde as expectativas do cliente.
 
 
 
 # Objetivos:
 
-1) Regressão - Previsão de vendas por produto e região
+1) Criar um modelo de agrupamento de clientes a fim de identificar os clientes de maior valor para o negócio;  
+2) Criar uma metodologia para avaliação de produtos por fornecedor a a partir da resposta do questionário de avaliação de pedidos;  
+3) Contabilizar o número de ocorrências de baixas avaliações pelo conjunto produto-fornecedor com a finalidade de notificá-los;  
+4) Otimizar as operações de notificações, propondo uma metodologia para priorização. Para isso será realizado o levantamento do preço unitário dos produtos por fornecedor e da relação Frete/distancia cliente-fornecedor;  
 
-2) Clusterização - Agrupar clientes que mais contribuem nas receitas do negócio
-
-3) Engenharia de Features - Aplicar feature engineering para mapear a experiencia do usuário realizando o ranqueamento de pedidos de acordo com os seguintes critérios:
-
-      - Distancia Cliente-Fornecedor
-      - Avaliação da Loja no pedido
  
-# Negócios
+# Conclusões
 
-Com os dados e as soluções já elaboradas propor as seguintes soluções ao negócio:
-  
-  - Avaliar o ranqueamento atual dos pedidos da Olist e reavaliar opções de lojas que maximizam a métrica, seja minimizando a distancia Cliente-Fornecedor 
-  ou priorizando fornecedores com melhores avaliações;
-  - Notificar lojas de possíveis aumentos na demanda por determinado produto baseado no modelo de previsão (regressão) desenvolvido.
-  - Elaborar dashboards para identificação de produtos mais comprados com maiores valores de compra efetuados pelos clientes mais valiosos ao negócio (Clusterização) e que possui menor ranqueamento de pedido. Dessa forma a Olist pode buscar fornecedores alternativos que melhoram a experiência do cliente.
-  - Expandir o dashboards sem aplicar o viés de clientes mais valiosos (Clusterização).
+Ao final do projeto lista-sel os fornecedores e produtos que causam maiores experiencias negativas para os clientes de maior valor para o negócio, e orienta-se o cliente a notificá-los priorizando os produtos que:
+
+1) Tiveram menores notas na avaliação;  
+2) Tiveram maiores ocorrências de baixa avaliação;  
+3) Possui elevado valor unitário, pois quanto maior o valor unitário maior pode ser a decepção do cliente;  
+4) Possui elevado valor de Frete/Distância cliente-fornecedor uma vez que possui custo logistico elevado;  
 
 
-# Ideias & Melhorias
-- Adicionar métricas de minimo, máximo, mediana e moda do ranqueamento de pedidos na base de clientes e utilizar os dados para identificar os clientes que deixaram de comprar com a Olist há mais de X meses. Criar um modelo de classificação para identificá-los
+
+# Melhorias, reocmendações e gaps do projeto
+
+A partir desse projeto de clusterização de clientes e análise de dados é possível aprimorar os algorítimos de recomendação para recomendar fornecedores que possuam produtos equivalentes cuja avaliação estejam conformes aos padrões.
