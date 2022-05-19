@@ -37,6 +37,6 @@ Ao final do projeto, é realizado uma análise de dados robusta, listando-se os 
 
 
 
-# Melhorias, reocmendações e gaps do projeto
+# Melhorias, recomendações e gaps do projeto
 
 A da clusterização de clientes e análise de dados proposto nesse projeto é possível aprimorar os algorítimos de recomendação a fim de priorizar fornecedores que possuam produtos equivalentes cuja avaliações de produtos estejam conforme os padrões.
