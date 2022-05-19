@@ -1,4 +1,4 @@
-# Olist: Previsão de vendas e Clusterização de clientes - Criação de métricas e procedimentos para avaliar e melhorar a experiência do cliente.
+# E-commerce Olist: Clusterização de clientes e criação de métricas e procedimentos para avaliar e melhorar a experiência de compra de cliente valiosos.
 
 Há um risco grande ruptura de clientes que são considerados valiosos para o negócio quando há uma recorrência de experiências negativas comprando na plataforma Olist. Nesse projeto há uma proposta de clusterização de clientes que agregam maior valor para o negócio.
 
