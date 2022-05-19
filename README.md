@@ -16,6 +16,10 @@ Entende-se como uma experiência negativa a compra de um produto que não corres
 4) Otimizar as operações de notificações ao conjunto produtos-fornecedores, propondo uma metodologia para priorização, utilizando, para isso dados de preço unitário de produtos por fornecedor e da relação Frete/distancia cliente-fornecedor;  
 
  
+ # Fonte de dados
+ 
+ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+ 
 # Conclusões resumidas
 
 Os clientes de maior valor para o negócio foram agrupados utilizando o algorítimo KMEANS considerando a frequencia de compra, o numero total de transações e o valor monetário total das transações. O processo de agrupamento foi orientado pelo método de Elbow que retornou 4 agrupamentos, sendo:
